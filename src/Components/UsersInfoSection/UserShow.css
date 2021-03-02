@@ -1,0 +1,12 @@
+.userDisplay img{
+    height: 100px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
+.userDisplay{
+    display: flex;
+}
+.divUserDisplay{    box-shadow: 5px 5px 10px gray;
+    padding: 30px 120px;
+    margin: 10px;
+    border-radius: 10px;}

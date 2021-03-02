@@ -1,0 +1,7 @@
+.usersInfoSec{
+    display: flex;
+    text-align: center;
+}
+.userInfoBody{
+    border-right: 2px solid gray;
+}
